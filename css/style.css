@@ -72,3 +72,8 @@ main {
   font-size: 14px;
   color: #cfcfcf;
 }
+.icono {
+  width: 20px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
