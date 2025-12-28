@@ -154,11 +154,3 @@ h3 {
   object-fit: cover;
   margin-right: 10px;
 }
-.foto-topic {
-  width: 500px;
-  height: 300px;
-  object-fit: cover;
-  display: block;
-  margin: 20px auto;
-  border-radius: 8px;
-}
