@@ -129,8 +129,12 @@ th {
 td {
   background-color: #1f1f1f;
 }
-h1, h2 {
-  text-align: center;
+h1 {
+  text-align: left;
+}
+h2 {
+  text-align: left;
+  color: #22d3ee;
 }
 h3 {
   margin-top: 15px;
